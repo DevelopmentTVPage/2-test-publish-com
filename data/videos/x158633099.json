@@ -1,0 +1,77 @@
+{
+    "title": "My Everyday Makeup Look - Shay Mitchell",
+    "description": "",
+    "referenceId": "641ff5e749c31f8708bd7e01e4648e2e",
+    "date_created": "1525128356",
+    "date_modified": 1525128610,
+    "tags": "",
+    "sourceId": "6",
+    "status": "publishing",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "user_id": "31",
+    "id": "158633099",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "my-everyday-makeup-look-shay-mitchell",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "904",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633099\/78c06\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633099\/78c06\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633099\/78c06\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633099\/78c06\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759121\/158633099\/78c06\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "904",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "904",
+        "prettyDuration": "00:15:04",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1759121\/158633099\/78c06\/thumb-641ff5e749c31f8708bd7e01e4648e2e-00002.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": null
+}
